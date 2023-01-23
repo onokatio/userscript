@@ -3,7 +3,7 @@
 // @namespace   https://github.com/onokatio/userscript/
 // @match       *://www.youtube.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      onokatio
 // @description 2023/1/23 13:35:22
 // @updateURL    https://github.com/onokatio/userscript/raw/master/YoutubeAV1.user.js
