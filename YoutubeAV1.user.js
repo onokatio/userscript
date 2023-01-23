@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Youtube AV1
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/onokatio/userscript/
 // @match       *://www.youtube.com/*
 // @grant       none
 // @version     1.0
