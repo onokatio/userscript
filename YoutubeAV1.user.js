@@ -6,7 +6,9 @@
 // @version     1.0
 // @author      onokatio
 // @description 2023/1/23 13:35:22
-// @supportURL   https://github.com/hepokon365/updatable_userscript
+// @updateURL    https://github.com/onokatio/userscript/raw/master/YoutubeAV1.user.js
+// @downloadURL  https://github.com/onokatio/userscript/raw/master/YoutubeAV1.user.js
+// @supportURL   https://github.com/onokatio/userscript/
 // ==/UserScript==
 
 const quality = '8192';
